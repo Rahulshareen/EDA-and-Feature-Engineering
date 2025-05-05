@@ -1,5 +1,5 @@
-A data analysis project where I perform EDA and feature engineering on the Google Play store dataset to uncover insights, 
-clean the data, and prepare it for machine learning or further analysis.
+A data analysis project where I performed EDA and feature engineering on Google Play dataset.
+
 
 Main Objectives are:
 1. Understand the structure and patterns in data.

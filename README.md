@@ -25,6 +25,18 @@ Exploratory Data Analysis Highlights:
 2. Relationship between installs and app ratings
 3. Insights from categorical features
 
+Insights:
+
+Analyzed 10K+ app records after cleaning missing values (~15%) and removing 1K+ duplicates to build a reliable dataset.
+
+Identified key app performance drivers, with the Game category having the highest installs and Family contributing ~18% of total apps.
+
+Discovered strong market trends, with ~92% apps being free and ~81% targeting the “Everyone” audience.
+
+Highlighted user preference patterns by identifying 271 top-rated (5-star) apps.
+
+Leveraged artificial intelligence concepts and statistical thinking to analyze patterns in user behavior and app performance. 
+
 
 
 
